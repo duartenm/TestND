@@ -1,1 +1,2 @@
 archivo creado en el branch, se debe reintegrar al trunk!!!
+se modifica el archivo en el branch!!
